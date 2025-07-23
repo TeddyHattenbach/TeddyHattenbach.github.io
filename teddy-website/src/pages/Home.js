@@ -33,8 +33,6 @@ function Home() {
           </div>
           <div className="contact">
             teddyhattenbach@gmail.com
-            <br />
-            413-822-5776
           </div>
         </div>
       </div>

@@ -24,7 +24,6 @@ function Experience() {
             Outlaw Technology
           </h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Remote</h4>
 
           <p>
             {" "}
@@ -44,7 +43,6 @@ function Experience() {
           <h3 className="vertical-timeline-element-title">
             Northeastern University, Khoury College of Computer Sciences
           </h3>
-          <h4 className="vertical-timeline-element-subtitle">Boston, MA</h4>
           <p>
             {" "}
             <strong>Bachelor of Science</strong> degree in Computer Science and Mathematics.
@@ -60,7 +58,6 @@ function Experience() {
           icon={<VolunteerActivismIcon />}
         >
           <h3 className="vertical-timeline-element-title">NU Trash2Treasure</h3>
-          <h4 className="vertical-timeline-element-subtitle">Boston, MA</h4>
           <p>
             {" "}
             <strong>Fundraising Volunteer</strong>
@@ -75,7 +72,6 @@ function Experience() {
           icon={<VolunteerActivismIcon />}
         >
           <h3 className="vertical-timeline-element-title">NU Mutual Aid</h3>
-          <h4 className="vertical-timeline-element-subtitle">Boston, MA</h4>
           <p>
             {" "}
             <strong>Volunteer</strong>
@@ -94,7 +90,6 @@ function Experience() {
             Harvard Law School
           </h3>
 
-          <h4 className="vertical-timeline-element-subtitle">Cambridge, MA</h4>
 
           <p>
             {" "}
@@ -112,7 +107,6 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">Paragon Data Labs</h3>
-          <h4 className="vertical-timeline-element-subtitle">Remote</h4>
           <p>
             <strong>Software Developer Co-op</strong>
             <br /> • Collaborated with a 20-person backend development team on financial compliance software.
@@ -129,7 +123,6 @@ function Experience() {
           icon={<WorkIcon />}
         >
           <h3 className="vertical-timeline-element-title">RV Tennis</h3>
-          <h4 className="vertical-timeline-element-subtitle">Norwalk, CT</h4>
           <p>
             <strong>Website Developer</strong>
             <br /> • Launched and maintained a website using WordPress for a small sports business.

@@ -7,8 +7,8 @@ export const ProjectList = [
   {
     name: "Social Activism Platform - Rebutify",
     image: Activism,
-    about: "I am leading the backend development in creating Rebutify, a site for activists to collaboratively optimize responses to arguments against social movements, starting with veganism.",
-    skills: "Python, Django, Typescript",
+    about: "I am leading the backend development in creating Rebutify, an open-source website for activists to collaboratively optimize responses to arguments against social movements, starting with veganism.",
+    skills: "Python, Linux, Django, Typescript",
 		socialActivismLink: "https://www.rebutify.org",
     devPostLink: null,
     gitHubLink: "https://github.com/TeddyHattenbach/Social-Activism-Platform",
