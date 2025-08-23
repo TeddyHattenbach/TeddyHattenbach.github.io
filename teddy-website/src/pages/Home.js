@@ -42,8 +42,8 @@ function Home() {
           <li className="item">
             <h2>Summary</h2>
             <span>
-            I have over two years of experience as a Software Developer
-            and am a recent graduate of Northeastern University.
+            I have over two years of job experience as a Software Developer
+            and graduated from Northeastern University.
             </span>
           </li>
           <li className="item">
