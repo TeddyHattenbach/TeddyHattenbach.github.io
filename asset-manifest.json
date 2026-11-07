@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.02516344.css",
-    "main.js": "/static/js/main.1b15b88e.js",
-    "static/js/488.9ec75b15.chunk.js": "/static/js/488.9ec75b15.chunk.js",
+    "main.css": "/static/css/main.51249382.css",
+    "main.js": "/static/js/main.b86c8bac.js",
+    "static/js/496.e1840d08.chunk.js": "/static/js/496.e1840d08.chunk.js",
     "static/media/Covey.jpg": "/static/media/Covey.236c83173fc2c4e5f25c.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.fba6983597e75593fd20.pdf",
     "static/media/Classification.png": "/static/media/Classification.bb7ca68a321d7fc2e4ba.png",
@@ -11,12 +11,12 @@
     "static/media/ProfilePicture.jpg": "/static/media/ProfilePicture.4b57e93d7cd027b7ea18.jpg",
     "static/media/Predictor.png": "/static/media/Predictor.a059cdc87ed6f4de2506.png",
     "index.html": "/index.html",
-    "main.02516344.css.map": "/static/css/main.02516344.css.map",
-    "main.1b15b88e.js.map": "/static/js/main.1b15b88e.js.map",
-    "488.9ec75b15.chunk.js.map": "/static/js/488.9ec75b15.chunk.js.map"
+    "main.51249382.css.map": "/static/css/main.51249382.css.map",
+    "main.b86c8bac.js.map": "/static/js/main.b86c8bac.js.map",
+    "496.e1840d08.chunk.js.map": "/static/js/496.e1840d08.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02516344.css",
-    "static/js/main.1b15b88e.js"
+    "static/css/main.51249382.css",
+    "static/js/main.b86c8bac.js"
   ]
 }
