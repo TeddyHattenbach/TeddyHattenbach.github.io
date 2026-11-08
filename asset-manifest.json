@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.51249382.css",
-    "main.js": "/static/js/main.b73663f9.js",
+    "main.js": "/static/js/main.a6af65d4.js",
     "static/js/496.e1840d08.chunk.js": "/static/js/496.e1840d08.chunk.js",
     "static/media/Covey.jpg": "/static/media/Covey.236c83173fc2c4e5f25c.jpg",
-    "static/media/Resume.pdf": "/static/media/Resume.fba6983597e75593fd20.pdf",
     "static/media/Classification.png": "/static/media/Classification.bb7ca68a321d7fc2e4ba.png",
     "static/media/Activism.png": "/static/media/Activism.d386be44adb56bb28b39.png",
     "static/media/SocialActivism.png": "/static/media/SocialActivism.2f3b24cd5d2d9d48ae49.png",
     "static/media/ProfilePicture.jpg": "/static/media/ProfilePicture.4b57e93d7cd027b7ea18.jpg",
     "static/media/Predictor.png": "/static/media/Predictor.a059cdc87ed6f4de2506.png",
+    "static/media/Resume.pdf": "/static/media/Resume.f5f1481104bf728daeba.pdf",
     "index.html": "/index.html",
     "main.51249382.css.map": "/static/css/main.51249382.css.map",
-    "main.b73663f9.js.map": "/static/js/main.b73663f9.js.map",
+    "main.a6af65d4.js.map": "/static/js/main.a6af65d4.js.map",
     "496.e1840d08.chunk.js.map": "/static/js/496.e1840d08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51249382.css",
-    "static/js/main.b73663f9.js"
+    "static/js/main.a6af65d4.js"
   ]
 }
